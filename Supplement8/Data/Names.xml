@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Names>
+	<Name>Emma</Name>
+	<Name>Liam</Name>
+	<Name>Olivia</Name>
+	<Name>Noah</Name>
+	<Name>Ava</Name>
+	<!-- Add all 100+ names here -->
+</Names>
+<ItemGroup>
+	<Content Include="Data\Names.xml">
+		<CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+	</Content>
+</ItemGroup>
